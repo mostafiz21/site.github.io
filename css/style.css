@@ -572,7 +572,8 @@ animation-delay: .8s;
   left:0;
   right: 0;
   bottom: 0;
-  background: rgba(215,67,77,0.9);
+  background: rgb(0,191,255)
+  
   opacity: 0;
   -webkit-transform: scale(0.2);
      -moz-transform: scale(0.2);
@@ -590,7 +591,7 @@ animation-delay: .8s;
   text-align: center;
 }
 #project-section .project-gallery .single-img .opacity h6 a {
-  color:#fff;
+  color:#00BFFF;
 }
 #project-section .project-gallery .single-img .opacity ul li {
   display: inline-block;
